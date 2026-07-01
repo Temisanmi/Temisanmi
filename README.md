@@ -78,6 +78,7 @@ I am actively preparing for SIWES industrial training opportunities and looking 
 ##  Contact
 
 - [Email](mailto:temiifesanmi@gmail.com)
+- [Phone](tel:+2347032513444)
 - [LinkedIn](https://www.linkedin.com/in/temi-ifesanmi-08871a3b6)
 - [GitHub](https://github.com/Temisanmi)
 - [Portfolio](https://temisanmi.github.io/portfolio/)
