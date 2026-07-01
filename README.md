@@ -1,5 +1,7 @@
 # Hi, I'm Ifesanmi Oluwagbotemi Gabriel!
 
+**Portfolio:** https://temisanmi.github.io/portfolio/
+
 Software Engineering student at Veritas University, Abuja, with a strong interest in full-stack development, software architecture, and game development.
 
 I enjoy building practical software solutions, from web applications and database-driven systems to desktop applications and 2D games. My approach to development starts with understanding the problem, designing the system, and then implementing clean, functional solutions.
@@ -78,7 +80,7 @@ I am actively preparing for SIWES industrial training opportunities and looking 
 ##  Contact
 
 - [Email](mailto:temiifesanmi@gmail.com)
-- [Phone](tel:+2347032513444)
+- **+234 703 251 3444**
 - [LinkedIn](https://www.linkedin.com/in/temi-ifesanmi-08871a3b6)
 - [GitHub](https://github.com/Temisanmi)
 - [Portfolio](https://temisanmi.github.io/portfolio/)
