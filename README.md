@@ -78,7 +78,7 @@ I am actively preparing for SIWES industrial training opportunities and looking 
 ##  Contact
 
 * Email: [temiifesanmi@gmail.com](mailto:temiifesanmi@gmail.com)
-* LinkedIn: linkedin.com/in/temi-ifesanmi-08871a3b6
-* GitHub: github.com/Temisanmi
+* LinkedIn: [linkedin.com/in/temi-ifesanmi-08871a3b6]
+* GitHub: [github.com/Temisanmi]
 
 Thanks for visiting my profile.
